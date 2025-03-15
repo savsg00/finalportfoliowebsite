@@ -423,6 +423,7 @@ body{
   font-size: 40px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.4;
+  margin-bottom: 200px;
 }
 
 
@@ -458,4 +459,14 @@ body{
   max-width: 650px; /* Reduce image size */
   border-radius: 5px;
   padding-left: -50px;
+}
+
+.connect-para{
+  padding-top: 150px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  margin-bottom: 200px;
 }
